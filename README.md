@@ -1,5 +1,5 @@
 # 💫 About Me:
-Associate Full .NET Developer at iEminence Inc
+Software Engineer
 
 
 # 💻 Tech Stack:
